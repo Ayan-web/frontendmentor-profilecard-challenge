@@ -1,0 +1,69 @@
+body{
+  background-color: #2596be;
+  background-image: url(/src/bg-pattern-top.svg), url(/src/bg-pattern-bottom.svg);
+  background-repeat: no-repeat;
+  background-position: -300px -500px,600px 300px;
+  font-family: KumbhSans;
+}
+@font-face {
+  font-family: 'KumbhSans';
+  src: url(/src/KumbhSans-VariableFont_wght.ttf);
+}
+main{
+  display: grid;
+  place-items: center;
+}
+.cardPattern{
+  background-image: url(/src/bg-pattern-card.svg);
+  height: 35%;
+  width: inherit;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+.cardClass{
+  position: relative;
+  top: 30%;
+  border-radius: 16px;
+  height: 350px;
+  box-shadow: 3px 3px 2px 2px #19a1ad;
+  width: 300px;
+  background-color: aliceblue;
+}
+.profilepic{
+  background-image: url(/src/image-victor.jpg);
+  background-repeat: no-repeat;
+  position:relative;
+  bottom:40px;
+  border-radius: 50%;
+  width:90px;
+  height: 90px;
+  border: 2px solid white;
+}
+.nameage{
+  position: relative;
+  bottom:10px;
+  font-size: 20px;
+}
+hr{
+  position: relative;
+  bottom:30px;
+}
+.status{
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  bottom: 20px;
+}
+.statusitem{
+  display: grid;
+  place-items: center;
+}
+@media (max-width:375px) {
+body{
+  background-position: -700px -700px,200px 200px;
+}
+}
+p{
+  position:relative;
+  bottom:10px
+}  
