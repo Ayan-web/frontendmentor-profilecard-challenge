@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-profilecard-challenge/static/css/main.63c9347f.chunk.css",
+    "main.js": "/frontendmentor-profilecard-challenge/static/js/main.f75ab2bf.chunk.js",
+    "main.js.map": "/frontendmentor-profilecard-challenge/static/js/main.f75ab2bf.chunk.js.map",
+    "runtime-main.js": "/frontendmentor-profilecard-challenge/static/js/runtime-main.bcccc162.js",
+    "runtime-main.js.map": "/frontendmentor-profilecard-challenge/static/js/runtime-main.bcccc162.js.map",
+    "static/js/2.e4c47642.chunk.js": "/frontendmentor-profilecard-challenge/static/js/2.e4c47642.chunk.js",
+    "static/js/2.e4c47642.chunk.js.map": "/frontendmentor-profilecard-challenge/static/js/2.e4c47642.chunk.js.map",
+    "index.html": "/frontendmentor-profilecard-challenge/index.html",
+    "static/css/main.63c9347f.chunk.css.map": "/frontendmentor-profilecard-challenge/static/css/main.63c9347f.chunk.css.map",
+    "static/js/2.e4c47642.chunk.js.LICENSE.txt": "/frontendmentor-profilecard-challenge/static/js/2.e4c47642.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/frontendmentor-profilecard-challenge/static/media/bg-pattern-top.dae77b1f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcccc162.js",
+    "static/js/2.e4c47642.chunk.js",
+    "static/css/main.63c9347f.chunk.css",
+    "static/js/main.f75ab2bf.chunk.js"
+  ]
+}
